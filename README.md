@@ -23,4 +23,4 @@ see? i knew you could do it
 - cheerio for html parsing
 - vercel for hosting
 
-made with ❤️ (and claude, mostly claud) and way too much purple
+made with ❤️ (and claude, mostly claude) and wayyyyyyyyyyyyy too much purple
